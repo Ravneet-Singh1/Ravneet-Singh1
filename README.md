@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-- 🔭 I’m currently working on **WSA (Web Security Appliances)**
+- 🔭 I’m currently working AS **Test Automation Engineer**
 
 - 🌱 I’m currently learning **Cucumber (BDD framework)**
 
