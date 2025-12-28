@@ -1,13 +1,13 @@
 ![logo](https://github.com/Ravneet-Singh1/Ravneet-Singh1/blob/main/main-banner.jpg)
 <h1 align="center">Hi 👋, I'm Ravneet Singh</h1>
-<h3 align="center">QA Test Automation Engineer</h3>
+<h3 align="center">Senior Quality Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-- 🔭 I’m currently working as a **Test Automation Engineer**
+- 🔭 I’m currently working as a **Senior Quallity Engineer**
 
-- 🌱 I’m currently learning **Cucumber (BDD framework)**
+- 🌱 I’m currently learning **API Automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ravneet-Singh1](https://github.com/Ravneet-Singh1)
 
